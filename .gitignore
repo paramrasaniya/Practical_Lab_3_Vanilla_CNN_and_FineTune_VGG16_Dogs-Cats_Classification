@@ -2,4 +2,4 @@ venv311/
 *.keras
 __pycache__/
 .ipynb_checkpoints/
-*.cats_dogs_5000/
+cats_dogs_5000/
